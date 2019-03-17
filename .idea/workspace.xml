@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6f6588d-6f83-403a-bf98-9fb54c9aa7ba" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>add</find>
+      <find>getByte</find>
+      <find>Sort</find>
+      <find>Old regions</find>
+      <find>CMS</find>
+      <find>Pause Young (Allocation Failure)</find>
+      <find>Pause Initial Mark</find>
+      <find>Concurrent Cycle</find>
+      <find>Mix</find>
+      <find>Fu</find>
+      <find>Ful</find>
+      <find>Ini</find>
+      <find>Full</find>
+      <find>abs</find>
+      <find>set</find>
+      <find>start</find>
+      <find>run</find>
+      <find>nextline</find>
+      <find>Parse</find>
+      <find>parseInt</find>
+      <find>param</find>
+      <find>toL</find>
+      <find>ico</find>
+      <find>go</find>
+      <find>readString</find>
+      <find>DataAcessLayer</find>
+      <find>1024</find>
+      <find>System</find>
+      <find>ThreadPoolEx</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="true" />
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ConcTest/HttpReader.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/DataReader.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part6/DataReader.java" />
+        <option value="$PROJECT_DIR$/src/server-config.xml" />
+        <option value="$PROJECT_DIR$/server-config.xml" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part6/LifecycleWebServer.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part6/SocketTest.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part6/Servlet.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part6/DataAcessLayer.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part6/SocketReader.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part6/Request.java" />
+        <option value="$PROJECT_DIR$/src/MyFileServer/SocketReader.java" />
+        <option value="$PROJECT_DIR$/src/MyFileServer/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/MyFileServer/LifecycleWebServer.java" />
+        <option value="$PROJECT_DIR$/src/MyFileServer/server-config.xml" />
+        <option value="$PROJECT_DIR$/../maver-Myserver/server-config.xml" />
+        <option value="$PROJECT_DIR$/src/MyService/LifecycleWebServer.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part6/HiddenIterator.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part5/Computable.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part6/OutOfTime.java" />
+        <option value="$PROJECT_DIR$/src/SocketReader.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part6/FutureRenderer.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part6/ImageInfo.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part6/CompletionService.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part6/Renderer.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part6/PrimeGenerator.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part6/PrimeProduce.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part6/NextTask.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part6/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part6/TimeRun.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part6/CancellableTask.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part6/LogWrite.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part6/LogServer.java" />
+        <option value="$PROJECT_DIR$/src/HttpClient/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/HttpClient/HttpClient.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part8/ThreadDeadlock.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part8/BoundedExecutor.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part8/TimingThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part8/parallelRecursion.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part8/MainTest.java" />
+        <option value="$PROJECT_DIR$/COREJAVA/service.properties" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part8/Puzzle.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part9/LongTimeFram.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part9/BackGroundTask2.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part9/BackGroundTask.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part9/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part9/LongTimeFram2.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part10/LockOrderDeadLock.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part10/Taxi.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part10/Taxi1.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part10/MainTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1366" />
+    <option name="height" value="679" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Java成神之路" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Java成神之路" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java成神之路" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java成神之路" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java成神之路" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java成神之路" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVA成神之路" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java成神之路" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Java成神之路" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="DataAcessLayer&#9;FILE&#9;file://C:/Users/Administrator/Desktop/JAVA/maven/Java成神之路/src/ConcTest/Part6/DataAcessLayer.java&#10;Arrays&#9;PSI&#9;JAVA://java.util.Arrays&#10;Arra&#9;FILE&#9;jrt://C:/Program Files/Java/jdk-10.0.2!/java.base/java/lang/reflect/Array.class&#10;BigDe&#9;PSI&#9;JAVA://java.math.BigDecimal" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551925405150" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\JAVA\maven\Java成神之路" />
+      <recent name="C:\Users\Administrator\Desktop\JAVA\maven\Java成神之路\src" />
+      <recent name="C:\Users\Administrator\Desktop\JAVA\maven\Java成神之路\out\production\Java成神之路" />
+      <recent name="C:\Users\Administrator\Desktop\JAVA\maven\Java成神之路\out\production\Java成神之路\JavaBasic" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ConcTest.Part9" />
+      <recent name="ConcTest.Part6" />
+      <recent name="Test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\JAVA\maven\Java成神之路\src\ConcTest\Part10" />
+      <recent name="C:\Users\Administrator\Desktop\JAVA\maven\Java成神之路\src" />
+      <recent name="C:\Users\Administrator\Desktop\JAVA\maven\Java成神之路" />
+      <recent name="C:\Users\Administrator\Desktop\JAVA\maven\Java成神之路\src\MyService" />
+      <recent name="C:\Users\Administrator\Desktop\JAVA\maven\Java成神之路\src\MyFileServer" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Part1Test">
+    <configuration name="MainTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HttpClient.MainTest" />
+      <module name="Java成神之路" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HttpClient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConcTest.Part8.MainTest" />
+      <module name="Java成神之路" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ConcTest.Part8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConcTest.Part9.MainTest" />
+      <module name="Java成神之路" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ConcTest.Part9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConcTest.Part5.MainTest" />
+      <module name="Java成神之路" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ConcTest.Part5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HttpClient.MainTest" />
+      <module name="Java成神之路" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ConcTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConcTest.Part6.MainTest" />
+      <module name="Java成神之路" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyFileServer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConcTest.Part6.MainTest" />
+      <module name="Java成神之路" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ConcTest.Part6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Part1Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConcTest.Part1.Part1Test" />
+      <module name="Java成神之路" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainTest (1)" />
+      <item itemvalue="Application.MainTest (2)" />
+      <item itemvalue="Application.MainTest (5)" />
+      <item itemvalue="Application.MainTest" />
+      <item itemvalue="Application.Part1Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Part1Test" />
+        <item itemvalue="Application.MainTest (1)" />
+        <item itemvalue="Application.MainTest (5)" />
+        <item itemvalue="Application.MainTest" />
+        <item itemvalue="Application.MainTest (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6f6588d-6f83-403a-bf98-9fb54c9aa7ba" name="Default Changelist" comment="" />
+      <created>1543892627267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543892627267</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1366" height="679" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1918429" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49924356" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.45688352" weight="0.32935154" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.48789713" weight="0.3993174" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32935154" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49546143" weight="0.32935154" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50755286" side_tool="true" weight="0.32879046" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49244714" visible="true" weight="0.32879046" />
+      <window_info anchor="bottom" id="JProfiler" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.19969743" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.2473525" />
+      <window_info anchor="right" id="Maven" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17824773" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49924356" weight="0.3295082" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.45688352" visible="true" weight="0.32935154" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.48789713" weight="0.3993174" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32935154" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49546143" weight="0.32935154" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5431165" side_tool="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.494705" weight="0.32935154" />
+      <window_info anchor="bottom" id="JProfiler" order="11" />
+      <window_info anchor="right" id="Maven" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.19969743" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.2473525" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$USER_HOME$" />
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="rq.param" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>rq.param</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/Part6/ImageInfo.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/concurrent/FutureTask.java" />
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/Part6/Renderer.java" />
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/Part6/FutureRenderer.java" />
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/Part6/CompletionService.java" />
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/MyAnnotation/GuardeBy.java" />
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/Part6/PrimeGenerator.java" />
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/Part6/PrimeProduce.java" />
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/Part6/NextTask.java" />
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/Part6/TimeRun.java" />
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/Part6/MainTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/Part6/CancellableTask.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java" />
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/Part6/LogWrite.java" />
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/Part6/LogServer.java" />
+    <entry file="jar://$PROJECT_DIR$/servlet-api.jar!/javax/servlet/annotation/HandlesTypes.class" />
+    <entry file="jar://$PROJECT_DIR$/servlet-api.jar!/javax/servlet/annotation/HttpConstraint.class" />
+    <entry file="jar://$PROJECT_DIR$/servlet-api.jar!/javax/servlet/annotation/HttpMethodConstraint.class" />
+    <entry file="jar://$PROJECT_DIR$/servlet-api.jar!/javax/servlet/annotation/MultipartConfig.class" />
+    <entry file="jar://$PROJECT_DIR$/servlet-api.jar!/javax/servlet/annotation/ServletSecurity.class" />
+    <entry file="jar://$PROJECT_DIR$/servlet-api.jar!/javax/servlet/ServletRequestListener.class" />
+    <entry file="jar://$PROJECT_DIR$/servlet-api.jar!/javax/servlet/ServletRequestEvent.class" />
+    <entry file="jar://$PROJECT_DIR$/servlet-api.jar!/javax/servlet/ServletRequest.class" />
+    <entry file="jar://$PROJECT_DIR$/servlet-api.jar!/javax/servlet/annotation/WebListener.class" />
+    <entry file="jar://$PROJECT_DIR$/servlet-api.jar!/javax/servlet/annotation/WebServlet.class" />
+    <entry file="jar://$PROJECT_DIR$/servlet-api.jar!/javax/servlet/annotation/WebInitParam.class" />
+    <entry file="jar://$PROJECT_DIR$/servlet-api.jar!/javax/servlet/annotation/WebFilter.class" />
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/SocketReader.java" />
+    <entry file="file://$PROJECT_DIR$/src/HttpClient/HttpClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/HttpClient/MainTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/Part8/BoundedExecutor.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.logging/java/util/logging/Logger.java" />
+    <entry file="file://$PROJECT_DIR$/TimingThreadPool.lck" />
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/Part8/ThreadDeadlock.java" />
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/Part8/TimingThreadPool.java" />
+    <entry file="file://$PROJECT_DIR$/TimingThreadPool" />
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/MyAnnotation/TestInstaller.java" />
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/Part8/parallelRecursion.java" />
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/Part8/MainTest.java" />
+    <entry file="file://$PROJECT_DIR$/COREJAVA/service.properties" />
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/Part8/Puzzle.java" />
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/Part9/BackGroundTask2.java" />
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/Part9/BackGroundTask.java" />
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/Part9/LongTimeFram2.java" />
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/Part9/LongTimeFram.java" />
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/Part9/MainTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/Part10/LockOrderDeadLock.java" />
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/Part10/Taxi1.java" />
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/Part10/MainTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/Part10/Taxi.java" />
+    <entry file="file://$PROJECT_DIR$/JAVA成神之路/src/FileServer/DataAcessLayer.java" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Java成神之路</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: xml-apis:xml-apis:1.0.b2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

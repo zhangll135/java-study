@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbd47467-75ed-41e4-86f6-7c3d4a4fda66" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FileServer/LifecycleWebServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="107">
+              <caret line="109" selection-start-line="109" selection-end-line="109" />
+              <folding>
+                <element signature="method#LifecycleWebServer#0;class#LifecycleWebServer#0" />
+                <element signature="method#handlesRequst#0;class#LifecycleWebServer#0" />
+                <element signature="e#1369#1414#1" />
+                <element signature="method#dispatchRequest#0;class#LifecycleWebServer#0" />
+                <element signature="e#1517#2636#0" />
+                <element signature="e#1713#2626#1" />
+                <element signature="e#1779#2497#1" />
+                <element signature="e#1830#1930#1" />
+                <element signature="e#1966#2066#1" />
+                <element signature="e#2104#2207#1" />
+                <element signature="e#2213#2479#1" />
+                <element signature="e#2267#2342#1" />
+                <element signature="e#2348#2424#1" />
+                <element signature="e#2661#2729#0" />
+                <element signature="e#2738#2859#0" />
+                <element signature="e#2756#2806#0" />
+                <element signature="method#servletls#0;class#LifecycleWebServer#0" />
+                <element signature="e#3171#3283#1" />
+                <element signature="method#servletdelete#0;class#LifecycleWebServer#0" />
+                <element signature="e#5863#5927#1" />
+                <element signature="e#5933#5997#1" />
+                <element signature="e#6192#6380#1" />
+                <element signature="e#6511#6768#1" />
+                <element signature="method#serverpost#0;class#LifecycleWebServer#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FileServer/Servlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="97" column="56" lean-forward="true" selection-start-line="97" selection-start-column="56" selection-end-line="97" selection-end-column="56" />
+              <folding>
+                <element signature="method#outText#0;class#Servlet#0" />
+                <element signature="method#outSplitTile#0;class#Servlet#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/get/server-config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FileServer/DataAcessLayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="360" column="50" lean-forward="true" selection-start-line="360" selection-start-column="50" selection-end-line="360" selection-end-column="50" />
+              <folding>
+                <element signature="method#DataAcessLayer#0;class#DataAcessLayer#0" />
+                <element signature="method#docCreatFileIcon#0;class#DataAcessLayer#0" />
+                <element signature="e#1571#1622#1" />
+                <element signature="e#1664#1707#1" />
+                <element signature="e#1859#1970#1" />
+                <element signature="e#1976#2868#1" />
+                <element signature="e#2088#2229#1" />
+                <element signature="e#2235#2854#1" />
+                <element signature="e#3073#3139#1" />
+                <element signature="e#3253#3319#1" />
+                <element signature="e#3433#3499#1" />
+                <element signature="e#3613#3679#1" />
+                <element signature="e#3795#3861#1" />
+                <element signature="method#makeImageIcon#0;class#DataAcessLayer#0" />
+                <element signature="method#makeVedioIcon#0;class#DataAcessLayer#0" />
+                <element signature="method#getImageRoton#0;class#DataAcessLayer#0" />
+                <element signature="method#movToMp4#0;class#DataAcessLayer#0" />
+                <element signature="method#docReadDocument#0;class#DataAcessLayer#0" />
+                <element signature="method#writeDocument#0;class#DataAcessLayer#0" />
+                <element signature="method#docAddElement#0;class#DataAcessLayer#0" />
+                <element signature="method#docDeleteItem#0;class#DataAcessLayer#0" />
+                <element signature="method#docReadElementItem#0;class#DataAcessLayer#0" />
+                <element signature="method#docReadFileItem#0;class#DataAcessLayer#0" />
+                <element signature="method#docReadFileItem#1;class#DataAcessLayer#0" />
+                <element signature="method#docReadFile#0;class#DataAcessLayer#0" />
+                <element signature="method#docAddMoreFileItem#0;class#DataAcessLayer#0" />
+                <element signature="method#docDeleteFileItem#0;class#DataAcessLayer#0" />
+                <element signature="method#docUpdateMorefileToMp4#0;class#DataAcessLayer#0" />
+                <element signature="method#fileWirte#0;class#DataAcessLayer#0" />
+                <element signature="method#filePartWrite#0;class#DataAcessLayer#0" />
+                <element signature="method#fileSendToStream#0;class#DataAcessLayer#0" />
+                <element signature="method#filePartSendToStream#0;class#DataAcessLayer#0" />
+                <element signature="method#readLine#0;class#DataAcessLayer#0" />
+                <element signature="method#readLine#1;class#DataAcessLayer#0" />
+                <element signature="method#str2utf8#0;class#DataAcessLayer#0" />
+                <element signature="initializer##0;class#DataAcessLayer#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FileServer/Request.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="42" column="40" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
+              <folding>
+                <element signature="method#doHead#0;class#Request#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>abstract</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/FileServer</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ConcTest/Part11/MyClassLoader.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part11/ConcTest/Part11/Hello.java" />
+        <option value="$PROJECT_DIR$/ConcTest.Part11/Hello.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part11/FileClassLoader.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part11/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/ConcTest/Part11/Hello.java" />
+        <option value="$PROJECT_DIR$/src/plist.xml" />
+        <option value="$PROJECT_DIR$/src/JavaBasic/JVM/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/JavaBasic/JVM/Part1_javacompiler.java" />
+        <option value="$PROJECT_DIR$/src/JavaBasic/Alibaba/Main.java" />
+        <option value="$PROJECT_DIR$/src/JavaBasic/Alibaba/Part1Interface.java" />
+        <option value="$PROJECT_DIR$/src/JavaBasic/Alibaba/PECS.java" />
+        <option value="$PROJECT_DIR$/src/FileServer/Request.java" />
+        <option value="$PROJECT_DIR$/src/FileServer/SocketReader.java" />
+        <option value="$PROJECT_DIR$/src/FileServer/DataAcessLayer.java" />
+        <option value="$PROJECT_DIR$/src/FileServer/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/FileServer/LifecycleWebServer.java" />
+        <option value="$PROJECT_DIR$/get/server-config.xml" />
+        <option value="$PROJECT_DIR$/src/FileServer/Servlet.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="y" value="23" />
+    <option name="width" value="1366" />
+    <option name="height" value="679" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JAVA成神之路" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA成神之路" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVA成神之路" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA成神之路" type="462c0819:PsiDirectoryNode" />
+              <item name="get" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVA成神之路" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA成神之路" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVA成神之路" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA成神之路" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="FileServer" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551695832009" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/FileServer" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/ConcTest/Part11" />
+      <recent name="$PROJECT_DIR$/src/ConcTest/Part11" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ConcTest.Part11.ConcTest.Part11" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/FileServer" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MainTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaBasic.Alibaba.Main" />
+      <module name="JAVA成神之路" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileServer.MainTest" />
+      <module name="JAVA成神之路" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PECS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaBasic.Alibaba.PECS" />
+      <module name="JAVA成神之路" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Part1_javacompiler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaBasic.JVM.Part1_javacompiler" />
+      <module name="JAVA成神之路" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="maven-FileServer.jar" type="JarApplication" factoryName="JAR Application" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/src/FileServer/maven-FileServer.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainTest" />
+        <item itemvalue="JAR Application.maven-FileServer.jar" />
+        <item itemvalue="Application.PECS" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Part1_javacompiler" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbd47467-75ed-41e4-86f6-7c3d4a4fda66" name="Default Changelist" comment="" />
+      <created>1548073335505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548073335505</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1366" height="679" extended-state="1" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3429003" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" weight="0.32930514" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32879046" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848944" visible="true" weight="0.20102215" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39863715" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32879046" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50151056" side_tool="true" weight="0.27597955" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49773413" weight="0.32879046" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConcTest/Part11/FileClassLoader.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConcTest/Part11/FileClassLoader.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/Part10/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/Part10/LockOrderDeadLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3316">
+          <caret line="577" column="22" selection-start-line="577" selection-start-column="22" selection-end-line="577" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/Part5/Factorizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TimingThreadPool">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConcTest.Part11/Hello.java" />
+    <entry file="file://$PROJECT_DIR$/ConcTest/Part11/Hello.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/Java成神之路/ConcTest/Part11/MainTest.class" />
+    <entry file="jar://$PROJECT_DIR$/rt.jar!/javax/net/SocketFactory.class" />
+    <entry file="jar://$PROJECT_DIR$/rt.jar!/sun/awt/util/IdentityArrayList.class" />
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/Part11/FileClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/SocketReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/Part11/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/plist.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="284" column="33" selection-end-line="322" />
+          <folding>
+            <element signature="n#dict#0;n#dict#0;n#plist#0;n#!!top" />
+            <element signature="n#dict#0;n#dict#0;n#dict#0;n#plist#0;n#!!top" />
+            <element signature="n#array#0;n#dict#0;n#dict#0;n#dict#0;n#plist#0;n#!!top" />
+            <element signature="n#dict#0;n#dict#0;n#dict#0;n#dict#0;n#plist#0;n#!!top" />
+            <element signature="n#array#0;n#dict#0;n#dict#0;n#plist#0;n#!!top" />
+            <element signature="n#dict#0;n#array#0;n#dict#0;n#dict#0;n#plist#0;n#!!top" />
+            <element signature="n#dict#1;n#array#0;n#dict#0;n#dict#0;n#plist#0;n#!!top" />
+            <element signature="n#dict#2;n#array#0;n#dict#0;n#dict#0;n#plist#0;n#!!top" />
+            <element signature="n#dict#1;n#dict#0;n#dict#0;n#plist#0;n#!!top" />
+            <element signature="n#dict#0;n#dict#1;n#dict#0;n#dict#0;n#plist#0;n#!!top" />
+            <element signature="n#dict#1;n#dict#0;n#plist#0;n#!!top" />
+            <element signature="n#dict#2;n#dict#0;n#plist#0;n#!!top" />
+            <element signature="n#dict#0;n#dict#2;n#dict#0;n#plist#0;n#!!top" />
+            <element signature="n#dict#1;n#dict#2;n#dict#0;n#plist#0;n#!!top" />
+            <element signature="n#dict#3;n#dict#0;n#plist#0;n#!!top" />
+            <element signature="n#dict#0;n#dict#3;n#dict#0;n#plist#0;n#!!top" />
+            <element signature="n#dict#1;n#dict#3;n#dict#0;n#plist#0;n#!!top" />
+            <element signature="n#dict#4;n#dict#0;n#plist#0;n#!!top" />
+            <element signature="n#dict#0;n#dict#4;n#dict#0;n#plist#0;n#!!top" />
+            <element signature="n#dict#1;n#dict#4;n#dict#0;n#plist#0;n#!!top" />
+            <element signature="n#data#0;n#dict#0;n#array#0;n#dict#5;n#dict#0;n#plist#0;n#!!top" />
+            <element signature="n#data#1;n#dict#0;n#array#0;n#dict#5;n#dict#0;n#plist#0;n#!!top" />
+            <element signature="n#data#0;n#dict#1;n#array#0;n#dict#5;n#dict#0;n#plist#0;n#!!top" />
+            <element signature="n#data#1;n#dict#1;n#array#0;n#dict#5;n#dict#0;n#plist#0;n#!!top" />
+            <element signature="n#data#0;n#dict#2;n#array#0;n#dict#5;n#dict#0;n#plist#0;n#!!top" />
+            <element signature="n#data#1;n#dict#2;n#array#0;n#dict#5;n#dict#0;n#plist#0;n#!!top" />
+            <element signature="n#data#0;n#dict#3;n#array#0;n#dict#5;n#dict#0;n#plist#0;n#!!top" />
+            <element signature="n#data#1;n#dict#3;n#array#0;n#dict#5;n#dict#0;n#plist#0;n#!!top" />
+            <element signature="n#data#0;n#dict#4;n#array#0;n#dict#5;n#dict#0;n#plist#0;n#!!top" />
+            <element signature="n#data#1;n#dict#4;n#array#0;n#dict#5;n#dict#0;n#plist#0;n#!!top" />
+            <element signature="n#dict#6;n#dict#0;n#plist#0;n#!!top" />
+            <element signature="n#dict#7;n#dict#0;n#plist#0;n#!!top" />
+            <element signature="n#dict#8;n#dict#0;n#plist#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConcTest/Part11/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#FileClassLoaderTest#0;class#MainTest#0" />
+            <element signature="method#fileTest#0;class#MainTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaBasic/JVM/MainTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/HttpClient/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HttpClient/HttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JMM/Final/CallSystemGC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#791#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JMM/Final/FinalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaBasic/JVM/Part1_javacompiler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaBasic/Alibaba/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaBasic/Alibaba/Part1Interface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaBasic/Alibaba/PECS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#302#310#0" expanded="true" />
+            <element signature="e#717#726#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/FileServer/maven-FileServer.jar!/DataAcessLayer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="47" column="15" selection-end-line="686" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/FileServer/maven-FileServer.jar!/LifecycleWebServer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="4" selection-end-line="180" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/FileServer/maven-FileServer.jar!/MainTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="13" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/FileServer/maven-FileServer.jar!/Request.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" column="12" selection-end-line="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/FileServer/maven-FileServer.jar!/Servlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" column="19" selection-end-line="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/FileServer/maven-FileServer.jar!/SocketReader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="7" lean-forward="true" selection-end-line="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FileServer/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="23" column="60" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FileServer/SocketReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="103" column="74" selection-start-line="103" selection-start-column="74" selection-end-line="103" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FileServer/Request.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="42" column="40" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
+          <folding>
+            <element signature="method#doHead#0;class#Request#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FileServer/LifecycleWebServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
+          <folding>
+            <element signature="method#LifecycleWebServer#0;class#LifecycleWebServer#0" />
+            <element signature="method#handlesRequst#0;class#LifecycleWebServer#0" />
+            <element signature="e#1369#1414#1" />
+            <element signature="method#dispatchRequest#0;class#LifecycleWebServer#0" />
+            <element signature="e#1517#2636#0" />
+            <element signature="e#1713#2626#1" />
+            <element signature="e#1779#2497#1" />
+            <element signature="e#1830#1930#1" />
+            <element signature="e#1966#2066#1" />
+            <element signature="e#2104#2207#1" />
+            <element signature="e#2213#2479#1" />
+            <element signature="e#2267#2342#1" />
+            <element signature="e#2348#2424#1" />
+            <element signature="e#2661#2729#0" />
+            <element signature="e#2738#2859#0" />
+            <element signature="e#2756#2806#0" />
+            <element signature="method#servletls#0;class#LifecycleWebServer#0" />
+            <element signature="e#3171#3283#1" />
+            <element signature="method#servletdelete#0;class#LifecycleWebServer#0" />
+            <element signature="e#5863#5927#1" />
+            <element signature="e#5933#5997#1" />
+            <element signature="e#6192#6380#1" />
+            <element signature="e#6511#6768#1" />
+            <element signature="method#serverpost#0;class#LifecycleWebServer#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FileServer/DataAcessLayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="360" column="50" lean-forward="true" selection-start-line="360" selection-start-column="50" selection-end-line="360" selection-end-column="50" />
+          <folding>
+            <element signature="method#DataAcessLayer#0;class#DataAcessLayer#0" />
+            <element signature="method#docCreatFileIcon#0;class#DataAcessLayer#0" />
+            <element signature="e#1571#1622#1" />
+            <element signature="e#1664#1707#1" />
+            <element signature="e#1859#1970#1" />
+            <element signature="e#1976#2868#1" />
+            <element signature="e#2088#2229#1" />
+            <element signature="e#2235#2854#1" />
+            <element signature="e#3073#3139#1" />
+            <element signature="e#3253#3319#1" />
+            <element signature="e#3433#3499#1" />
+            <element signature="e#3613#3679#1" />
+            <element signature="e#3795#3861#1" />
+            <element signature="method#makeImageIcon#0;class#DataAcessLayer#0" />
+            <element signature="method#makeVedioIcon#0;class#DataAcessLayer#0" />
+            <element signature="method#getImageRoton#0;class#DataAcessLayer#0" />
+            <element signature="method#movToMp4#0;class#DataAcessLayer#0" />
+            <element signature="method#docReadDocument#0;class#DataAcessLayer#0" />
+            <element signature="method#writeDocument#0;class#DataAcessLayer#0" />
+            <element signature="method#docAddElement#0;class#DataAcessLayer#0" />
+            <element signature="method#docDeleteItem#0;class#DataAcessLayer#0" />
+            <element signature="method#docReadElementItem#0;class#DataAcessLayer#0" />
+            <element signature="method#docReadFileItem#0;class#DataAcessLayer#0" />
+            <element signature="method#docReadFileItem#1;class#DataAcessLayer#0" />
+            <element signature="method#docReadFile#0;class#DataAcessLayer#0" />
+            <element signature="method#docAddMoreFileItem#0;class#DataAcessLayer#0" />
+            <element signature="method#docDeleteFileItem#0;class#DataAcessLayer#0" />
+            <element signature="method#docUpdateMorefileToMp4#0;class#DataAcessLayer#0" />
+            <element signature="method#fileWirte#0;class#DataAcessLayer#0" />
+            <element signature="method#filePartWrite#0;class#DataAcessLayer#0" />
+            <element signature="method#fileSendToStream#0;class#DataAcessLayer#0" />
+            <element signature="method#filePartSendToStream#0;class#DataAcessLayer#0" />
+            <element signature="method#readLine#0;class#DataAcessLayer#0" />
+            <element signature="method#readLine#1;class#DataAcessLayer#0" />
+            <element signature="method#str2utf8#0;class#DataAcessLayer#0" />
+            <element signature="initializer##0;class#DataAcessLayer#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get/server-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FileServer/Servlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="97" column="56" lean-forward="true" selection-start-line="97" selection-start-column="56" selection-end-line="97" selection-end-column="56" />
+          <folding>
+            <element signature="method#outText#0;class#Servlet#0" />
+            <element signature="method#outSplitTile#0;class#Servlet#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JAVA成神之路</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

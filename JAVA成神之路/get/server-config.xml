@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<server-persist> 
+  <pccss> 
+    <item tablewidth="80px" imagheight="80px" fontsize="3" cellspacing="10px 1px">file</item>
+    <item height="24px" width="90px" fontwidth="4" fontsize="3" uphalf="3" downhalf="9">splitTitle</item>
+    <item size="3" title="5" head="5">font</item>  
+    <item fontsize="3" textfontsize="13px" textwidth="236">form</item>  
+    <item dispheadsplit="0" n="7" disphead="1">postPage</item> 
+  </pccss>  
+  <iphonecss> 
+    <item tablewidth="220px" imagheight="220px" fontsize="9" cellspacing="22px 1px">file</item>
+    <item height="108px" width="220px" fontwidth="15" fontsize="9" uphalf="9" downhalf="27">splitTitle</item>
+    <item size="9" title="14" head="18">font</item>  
+    <item fontsize="9" textfontsize="48px" textwidth="800">form</item>  
+    <item dispheadsplit="1" n="4" disphead="0">postPage</item> 
+  </iphonecss>  
+  <filetype> 
+    <item value="application/pdf">.pdf</item>  
+    <item value="video/mov">.mov</item>  
+    <item value="video/mp4">.mp4</item>  
+    <item value="image/vnd.microsoft.icon">.ico</item>  
+    <item value="image/jpeg">.jpg</item>  
+    <item value="image/jpeg">.jpeg</item>  
+    <item value="application/msword">.doc</item>  
+    <item value="text/plain;charset=UTF-8">.txt</item> 
+  </filetype>  
+  <favor> 
+    <item path="post" ico="get/favicon.ico" title="Login">/favicon.ico</item>  
+    <item path="delete" ico="get/del.ico" title="Delete">/del.ico</item>  
+    <item path="get/简历.pdf" ico="get/简历.ico" title="简历">/简历.pdf</item>  
+    <item path="get/config.txt" ico="get/config.ico" title="配置">/config.txt</item> 
+  </favor>  
+  <morefile> 
+    <item path="get/file/G1回收.txt" ico="get/file/G1回收.ico" title="G1回收">/file/G1回收.txt</item>  
+    <item path="get/file/天坑瀑布.mp4" ico="get/file/天坑瀑布.ico" title="天坑瀑布">/file/天坑瀑布.mp4</item>  
+    <item path="get/file/重庆黄昏.jpeg" ico="get/file/重庆黄昏.ico" title="重庆黄昏">/file/重庆黄昏.jpeg</item>  
+    <item path="get/file/小陆.jpeg" ico="get/file/小陆.ico" title="小陆">/file/小陆.jpeg</item> 
+  </morefile>  
+  <ico> 
+    <item path="get/favicon.ico">/favicon.ico</item>  
+    <item path="get/del.ico">/del.ico</item>  
+    <item path="get/简历.ico">/简历.ico</item>  
+    <item path="get/config.ico">/config.ico</item>  
+    <item path="get/file/G1回收.ico">/file/G1回收.ico</item>  
+    <item path="get/file/天坑瀑布.ico">/file/天坑瀑布.ico</item>  
+    <item path="get/file/重庆黄昏.ico">/file/重庆黄昏.ico</item>  
+    <item path="get/file/小陆.ico">/file/小陆.ico</item> 
+  </ico> 
+</server-persist>

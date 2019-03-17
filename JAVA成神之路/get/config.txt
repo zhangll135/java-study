@@ -1,0 +1,3 @@
+MBD: Lenovo 4290CTO
+Memory: Dual Channel DDR-1600
+CPU: i5-2450m@2.5GHz
